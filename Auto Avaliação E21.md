@@ -6,7 +6,7 @@
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
-[ ]  Atingiu parte dos objetivos essenciais  
+[x]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
 [ ]  Conteúdo não Ministrado - Não se Aplica  
@@ -16,7 +16,7 @@
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
-[ ]  Atingiu parte dos objetivos essenciais  
+[x]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
 [ ]  Conteúdo não Ministrado - Não se Aplica  
@@ -45,7 +45,7 @@
 
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
-[ ]  Atingiu os objetivos essenciais  
+[x]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
@@ -55,7 +55,7 @@
 
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
-[ ]  Atingiu os objetivos essenciais  
+[x]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
@@ -67,7 +67,7 @@
 [ ]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
-[ ]  Não atingiu os objetivos essenciais  
+[x]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
 [ ]  Conteúdo não Ministrado - Não se Aplica  
 
@@ -110,7 +110,7 @@
 
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
-[ ]  Atingiu os objetivos essenciais  
+[x]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
@@ -122,7 +122,7 @@
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
-[ ]  Atingiu parte dos objetivos essenciais  
+[x]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
 
@@ -131,7 +131,7 @@
 
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
-[ ]  Atingiu os objetivos essenciais  
+[x]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
@@ -139,7 +139,7 @@
 4. Domínio na tecnologia   
 *Dominar ferramentas tecnológicas.*  
 
-[ ]  Atingiu todos os objetivos  
+[x]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
@@ -151,7 +151,7 @@
 
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
-[ ]  Atingiu os objetivos essenciais  
+[x]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
@@ -160,7 +160,7 @@
 *Organização ou estruturação de raciocínios que nos permite, de acordo com determinadas normas, chegar a uma conclusão ou resolver um problema.*  
 
 [ ]  Atingiu todos os objetivos  
-[ ]  Atingiu a maioria dos objetivos  
+[x]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
@@ -171,7 +171,7 @@
 
 [ ]  Atingiu todos os objetivos  
 [ ]  Atingiu a maioria dos objetivos  
-[ ]  Atingiu os objetivos essenciais  
+[x]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
 [ ]  Requer atenção especial  
@@ -180,7 +180,7 @@
 *Saber se comunicar de forma clara e eficiente é fundamental para um bom trabalho em equipe. Essa é a forma de alinhar as metas e objetivos para que todos possam compreender seu papel e importância. O trabalho em equipe pode ser formado por pessoas com personalidades, formas de pensar e agir opostas. Saber respeitar e lidar com essas diferenças é fundamental para construir relações saudáveis e para o crescimento profissional.*  
 
 [ ]  Atingiu todos os objetivos  
-[ ]  Atingiu a maioria dos objetivos  
+[x]  Atingiu a maioria dos objetivos  
 [ ]  Atingiu os objetivos essenciais  
 [ ]  Atingiu parte dos objetivos essenciais  
 [ ]  Não atingiu os objetivos essenciais  
@@ -193,12 +193,12 @@
 - **Pontos positivos**  
 *Algo em que você se destacou, seja técnico ou comportamental*   
       
-         
+ Liderança da equipe e distribuição de tarefas conforme as melhores habilidades dos integrantes.        
 
 - **Pontos de melhoria**  
 *Algo em que você considera que tenha ido bem, mas que de alguma forma tenha aptidão de melhorar, seja técnico ou comportamental*
    
-   
+ Inteligência emocional para lidar com as pressões e problemas do dia a dia e do trabalho para que não interfiram no meu desempenho, principalmente no meu ânimo e compromentimento com meus estudos.  
 
 
 - **Observação geral**  
@@ -210,12 +210,22 @@ Fale sobre seu nível de conhecimento a cerca de "desenvolvimento de software" a
 
 1. Você já sabia programar, se sim, quais linguagens? 
 
+  Sim. Básico de Python, HTML, Java e Portugol.
+
 2. Você fez algum curso na área ou está cursando, se sim qual curso (Curso livre, Técnico, Nível superiror, etc)? 
+
+   Curso Técnico (Cursando) como técnico de informática. Temos aulas de programação.
 
 3. Você já teve alguma experiencia profissional em alguma empresa de desenvolvimento de software, se sim, conte um pouco a respeito.
 
+  Trabalhei como escritor para a empresa Orc'n Roll. A empresa desenvolvia um sistema para uma editora de jogos nacionais chamada Jambô Editora. Fiz uma tradução de um PDF do jogo totalmente em HTML.
+
 4. Você está trabalhando atualmente, conte um pouco a respeito?
 
+   Trabalho como técnico de informática na prefeitura municipal de Imbituba. Lá faço principalmente manutenção de hardware. Faço bicos consertando máquinas e corrigindo erros de software em dispositivos eletrônicos.
+
 5. Você está estudando atualmente (ensino médio, superior, outros...)?  
+
+   Estudo ensino médio técnico
 
 
